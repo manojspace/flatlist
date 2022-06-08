@@ -1,2 +1,1 @@
-# flatlist
-Created with CodeSandbox
+# Custom scrollbar using FlatList - React Native
